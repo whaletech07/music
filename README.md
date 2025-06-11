@@ -4,6 +4,6 @@ My open source music.
 
 ## License
 
-These files are licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](LICENCE).
+These works are licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported License](LICENSE).
 
-You are free to share, adapt, and remix these files as long as you give appropriate credit and license your derivative works under the same or a compatiable licence.
+You are free to share, adapt, and remix these works as long as you give appropriate credit and license your derivative works under the same or a compatible license.
